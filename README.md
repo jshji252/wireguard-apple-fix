@@ -1,3 +1,6 @@
+# NOTE
+this is just a wg-apple with a small (but criticla) fix, which I learnt from the PR request by dminglv (https://github.com/dminglv). Wireguard hasn't merged it, hence i'm just forking for records
+
 # [WireGuard](https://www.wireguard.com/) for iOS and macOS
 
 This project contains an application for iOS and for macOS, as well as many components shared between the two of them. You may toggle between the two platforms by selecting the target from within Xcode.
